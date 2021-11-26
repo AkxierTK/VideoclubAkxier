@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="80px" preserveAspectRatio="none" style="width:177px;height:80px;background:#FFFFFF;" version="1.1" viewBox="0 0 177 80" width="177px" zoomAndPan="magnify"><defs/><g><!--MD5=[9fd4abe8a60bd4f9c19df12c82734f76]
+cluster VideoclubAkxier--><polygon fill="#FFFFFF" points="16,6,150,6,157,28.2969,160,28.2969,160,73,16,73,16,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="157" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="128" x="20" y="20.9951">VideoclubAkxier</text><!--MD5=[d5e6497549a670a733977ce59ebdb42d]
+class VideoclubAkxier\\Soporte--><rect codeLine="15" fill="#FEFECE" height="32" id="VideoclubAkxier\\Soporte" style="stroke:#A80036;stroke-width:1.5;" width="82" x="47" y="33"/><ellipse cx="62" cy="49" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M62.1094,44.3438 L60.9531,49.4219 L63.2813,49.4219 L62.1094,44.3438 Z M60.625,42.1094 L63.6094,42.1094 L66.9688,54.5 L64.5156,54.5 L63.75,51.4375 L60.4688,51.4375 L59.7188,54.5 L57.2813,54.5 L60.625,42.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="50" x="76" y="53.1543">Soporte</text><!--MD5=[79f89274e0598de54c1f4f9d3fc5a418]
+@startuml
+   skinparam ArrowColor #516f42
+   skinparam activityBorderColor #516f42
+   skinparam activityBackgroundColor #ffffff
+   skinparam activityDiamondBorderColor #516f42
+   skinparam activityDiamondBackgroundColor #ffffff
+   skinparam shadowing false
+
+skinparam shadowing false
+skinparam linetype ortho
+hide empty members
+left to right direction
+set namespaceSeparator \\
+
+
+abstract class \\VideoclubAkxier\\Soporte {
+}
+
+@enduml
+
+PlantUML version 1.2021.13(Mon Nov 01 11:38:45 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: ANSI_X3.4-1968
+Language: en
+Country: US
+--></g></svg>

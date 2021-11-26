@@ -1,0 +1,54 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\VideoclubAkxier\\Soporte",
+            "name": "Soporte",
+            "summary": "Clase\u0020que\u0020representa\u0020un\u0020Soporte",
+            "url": "classes/VideoclubAkxier-Soporte.html"
+        },                {
+            "fqsen": "\\VideoclubAkxier\\Soporte\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "",
+            "url": "classes/VideoclubAkxier-Soporte.html#method___construct"
+        },                {
+            "fqsen": "\\VideoclubAkxier\\Soporte\u003A\u003AgetCodigo\u0028\u0029",
+            "name": "getCodigo",
+            "summary": "Devuelve\u0020el\u0020codigo\u0020del\u0020soporte",
+            "url": "classes/VideoclubAkxier-Soporte.html#method_getCodigo"
+        },                {
+            "fqsen": "\\VideoclubAkxier\\Soporte\u003A\u003AsetCodigo\u0028\u0029",
+            "name": "setCodigo",
+            "summary": "Setea\u0020el\u0020codigo\u0020del\u0020soporte",
+            "url": "classes/VideoclubAkxier-Soporte.html#method_setCodigo"
+        },                {
+            "fqsen": "\\VideoclubAkxier\\Soporte\u003A\u003AgetNombre\u0028\u0029",
+            "name": "getNombre",
+            "summary": "Devuelve\u0020el\u0020nombre\u0020del\u0020soporte",
+            "url": "classes/VideoclubAkxier-Soporte.html#method_getNombre"
+        },                {
+            "fqsen": "\\VideoclubAkxier\\Soporte\u003A\u003AsetNombre\u0028\u0029",
+            "name": "setNombre",
+            "summary": "Setea\u0020el\u0020nombre\u0020del\u0020soporte",
+            "url": "classes/VideoclubAkxier-Soporte.html#method_setNombre"
+        },                {
+            "fqsen": "\\VideoclubAkxier\\Soporte\u003A\u003A\u0024codigo",
+            "name": "codigo",
+            "summary": "Codigo\u0020identificativo\u0020de\u0020Soporte",
+            "url": "classes/VideoclubAkxier-Soporte.html#property_codigo"
+        },                {
+            "fqsen": "\\VideoclubAkxier\\Soporte\u003A\u003A\u0024nombre",
+            "name": "nombre",
+            "summary": "Nombre\u0020del\u0020Soporte",
+            "url": "classes/VideoclubAkxier-Soporte.html#property_nombre"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        },                {
+            "fqsen": "\\VideoclubAkxier",
+            "name": "VideoclubAkxier",
+            "summary": "",
+            "url": "namespaces/videoclubakxier.html"
+        }            ]
+);
