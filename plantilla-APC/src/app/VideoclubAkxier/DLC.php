@@ -10,6 +10,7 @@ class DLC extends Juego{
     )
     {
     }
+
     public function getJuego(){
         return $this->juego;
     }
@@ -17,6 +18,7 @@ class DLC extends Juego{
     public function setJuego($juego){
         $this->juego=$juego;
     }
+    
     public function muestraResumen()
     {
         $resumen="";

@@ -14,4 +14,5 @@ class Cliente
     {
         $this->alquileresActuales=[];
     }
+    
 }
