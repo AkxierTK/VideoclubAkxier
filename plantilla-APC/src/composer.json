@@ -10,5 +10,8 @@
     "require": {
         "monolog/monolog": "^2.3",
         "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {"VideoclubAlxier\\": "app/VideoclubAkxier"}
     }
 }
